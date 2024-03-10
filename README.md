@@ -2,7 +2,9 @@
 
 ## Info:
 Authors: Noah Waisbrod, Kyle Levy
+
 Course: ELEC 372 - Numerical Methods and Optimization
+
 Date: Mar 8, 2024
 
 ## Description
